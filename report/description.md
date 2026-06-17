@@ -44,5 +44,3 @@ Frontend: Deploy the frontend folder to Vercel. It is free and specifically desi
 Backend: Deploy the backend and ai_service to a platform like Render.com or Railway.app, which supports Node.js and Databases.
 What you can do right now:
 I've already updated the README and project structure so that if you run it locally, it works perfectly. For your Academic Report, I recommend taking screenshots or a video of it running on your local machine, as that proves the full-stack logic (including the AI) is operational!
-
-Would you like me to help you create a specific "Deployment Guide" for your report?
